@@ -72,3 +72,19 @@ The notebooks report the dimensions of **P(s)** and **S(s)**, the Smith form and
 ## Reproducibility
 
 Run each script from a clean session and retain the Command Window output with the source files. The MATLAB rank progressions above were reproduced in the submitted implementations; the Mathematica notebooks should be run and their decomposition checks inspected before using their outputs as supporting evidence.
+
+## Citing this work
+
+Suggested citation:
+
+```bibtex
+@article{Kandivalasa2026,
+author={Akhila Kandivalasa and Marcos Netto},
+journal={preprint, arXiv:XXXX.YYYYY}, 
+title={Algebraic Observability for Power System Dynamic State Estimation}, 
+year={2026},}
+```
+
+### License
+
+This work is licensed under the MIT license. See the [LICENSE](LICENSE) file for more details.
