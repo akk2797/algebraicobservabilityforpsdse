@@ -66,7 +66,6 @@ The notebooks report the dimensions of **P(s)** and **S(s)**, the Smith form and
 - Machines are represented by a fourth-order synchronous generator model with an IEEE Type-1 exciter (seven original differential equations per machine).
 - Rotor-angle trigonometric functions are polynomially lifted using sine/cosine variables and unit-circle relations.
 - Terminal PMU phasors and known inputs are treated as known quantities; unmeasured network variables are included among the latent variables.
-- The present scripts treat the excitation saturation coefficient as specified in the current model. An exponential-saturation lifting is **not** included.
 - Numerical machine parameters for a physical benchmark should not be inferred from the symbolic rank result alone.
 
 ## Reproducibility
