@@ -79,7 +79,7 @@ Suggested citation:
 ```bibtex
 @article{Kandivalasa2026,
 author={Akhila Kandivalasa and Marcos Netto},
-journal={preprint, arXiv:XXXX.YYYYY}, 
+journal={preprint, arXiv:2611.28305}, 
 title={Algebraic Observability for Power System Dynamic State Estimation}, 
 year={2026},}
 ```
